@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/T-kanekoko/t-kanekoko.github.io.git
+	branch = master

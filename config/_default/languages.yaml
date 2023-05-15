@@ -9,7 +9,7 @@ en:
   #contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
+# zh:
 #  languageCode: zh-Hans
 #  contentDir: content/zh
 #  title: Chinese website title...
@@ -18,5 +18,17 @@ en:
 #  menu:
 #    main:
 #      - name: 传
+#        url: '#about'
+#        weight: 1
+
+# ja:
+#  languageCode: ja
+#  contentDir: content/ja
+#  title: Tatsuya Kaneko
+# #  params:
+# #    description: Site description in Chinese...
+#  menu:
+#    main:
+#      - name: ホーム
 #        url: '#about'
 #        weight: 1
