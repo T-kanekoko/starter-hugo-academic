@@ -6,7 +6,7 @@
 # title: Academic # Website name
 title: Tatsuya Kaneko # Website name
 # baseURL: 'https://example.com/' # Website URL
-baseURL: 'https://t-kanekoko.github.io/' # Website URL
+baseURL: 'https://t-kanekoko.github.io' # Website URL
 
 ############################
 ## LANGUAGE
