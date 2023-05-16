@@ -244,6 +244,42 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
+  - block: accomplishments
+    content:
+      title: Awards
+      subtitle: ''
+      text: ''
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `items` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: '令和4年度北海道大学大学院情報科学院 - 学院長賞（博士）'
+          date_start: '2023-03-23'
+          description: ''
+          organization: '北海道大学'
+        - title: '2019年度非線形問題研究会発表奨励賞'
+          date_start: '2020-05-15'
+          description: "エッジAIに向けた三値バックプロパゲーション法とそのFPGA実装,"
+          organization: '電子情報通信学会 非線形問題研究会'
+        - title: '令和4年度北海道大学大学院情報科学院 - 学院長賞（修士）'
+          date_start: '2020-03-25'
+          description: ''
+          organization: '北海道大学'
+        - title: 'MAKER OF MERIT 2019'
+          date_start: '2019-10-20'
+          description: "Reconfigurable AI shield for embedded microcontrollers,"
+          organization: 'Maker Faire Rome'
+        - title: 'NCSP19 Student Paper Award'
+          date_start: '2019-03-07'
+          description: "Hardware-oriented algorithm and architecture for generative adversarial networks,"
+          organization: 'The Research Institute of Signal Processing'
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
   - block: contact
     id: contact
     content:

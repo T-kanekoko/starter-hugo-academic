@@ -31,5 +31,5 @@ publishDate: '2023-05-16T02:22:23.677974Z'
 publication_types:
 - '0'
 abstract: ''
-publication: ''
+publication: '*トランジスタ技術*'
 ---
