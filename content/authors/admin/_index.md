@@ -18,7 +18,7 @@ role: Project Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Tokyo University
+  - name: The University of Tokyo
     url: https://sites.google.com/view/casys-ja/
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,6 +27,7 @@ bio: My research interests include algorithm and hardware architecture for machi
 # Interests to show in About widget
 interests:
   - Machine Learning
+  - Edge-AI
   - Hardware/ Software Co-design
   - On-device Training
   - Federated Learning
@@ -37,10 +38,10 @@ education:
     - course: Ph.D. in Engineering
       institution: Hokkaido University
       year: 2023
-    - course: Master Degree
+    - course: M.E.
       institution: Hokkaido University
       year: 2020
-    - course: Bachelor Degree
+    - course: B.E.
       institution: Hokkaido University
       year: 2018
 
@@ -81,5 +82,5 @@ social:
 highlight_name: true
 ---
 
-Tatsuya Kaneko is a project assistant professor at the Takamaeda Lab. His research interests include algorithm and hardware architecture for machine learning. 
+Tatsuya Kaneko is currently a Project Assistant Professor with the Graduate School of Information Science and Technology, The University of Tokyo, Tokyo, Japan. His research interests include algorithm and hardware architecture for machine learning and federated learning. 
 {style="text-align: justify;"}

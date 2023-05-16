@@ -1,0 +1,12 @@
+memo
+1. './content'等の内容を変更
+2. './'で'hugo'を実行→'./public/'以下（公開用のページ？）がいい感じに更新される
+7. 'git add .' → 'git commit -m 'hogehoge''　→　'git push'
+3. 'cd public/'
+4. 'git add .' → 'git commit -m 'hogeeeee'' →　'git push'
+6. 'cd ..'
+8. しばし待たれよ
+9. Webページの確認
+
+
+'./' → './public/'の順にpushするがよろし
